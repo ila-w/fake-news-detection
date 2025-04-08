@@ -1,9 +1,7 @@
 # fake-news-detection
 
 
-**References:**
-
-Original Research Study Sources:
+**References**
 
 Kuntur, S., Wróblewska, A., Paprzycki, M., & Ganzha, M. (2024). Fake News Detection: It's All in the Data! [https://www.doi.org/10.48550/arXiv.2407.02122](https://www.doi.org/10.48550/arXiv.2407.02122).
 - Github repo: [https://github.com/fakenewsresearch/](https://github.com/fakenewsresearch/)

@@ -1,6 +1,13 @@
 # fake-news-detection
 
-References:
+
+**References:**
+
+Original Research Study Sources:
+Kuntur, S., Wróblewska, A., Paprzycki, M., & Ganzha, M. (2024). Fake News Detection: It's All in the Data! [https://www.doi.org/10.48550/arXiv.2407.02122](https://www.doi.org/10.48550/arXiv.2407.02122).
+- Github repo for original paper: [https://github.com/fakenewsresearch/](https://github.com/fakenewsresearch/)
+- Kaggle dataset: [https://github.com/fakenewsresearch/comparative-analysis](https://www.kaggle.com/datasets/csmalarkodi/isot-fake-news-dataset)
+
 
 Previous Source:<br/>
 David MJ Lazer, Matthew A Baum, Yochai Benkler, Adam J Berinsky, Kelly M Greenhill, Filippo

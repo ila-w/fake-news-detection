@@ -1,5 +1,9 @@
 # fake-news-detection
 
+**How to Clone and Build/Deploy**
+
+Clone the repo:
+  git clone https://github
 
 **References**
 

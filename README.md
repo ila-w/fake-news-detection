@@ -11,6 +11,9 @@
 -     fake-news-detection-models.ipynb
 
 - *Set up the datasets* (fake-news.csv, gossipcop_fake.csv, gossipcop_real.csv, and true-new.csv)
+  
+- *Download the primary dataset from Kaggle*:
+-     https://www.kaggle.com/datasets/csmalarkodi/isot-fake-news-dataset
 
 
 **Functionality**

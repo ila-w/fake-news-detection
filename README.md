@@ -3,7 +3,19 @@
 **How to Clone and Build/Deploy**
 
 Clone the repo:
-  git clone https://github
+  git clone https://github.com/ila-w/fake-news-detection.git
+  cd fake-news-detection
+Run the project (open and execute these in Jupyter Notebook):
+  fake-news-detection-gossipcop.ipynb
+  fake-news-detection-models.ipynb
+Set up the datasets (fake-news.csv, gossipcop_fake.csv, gossipcop_real.csv, and true-new.csv)
+
+**Functionality**
+Load and preprocess real-world news datasets
+Train and evaluate machine learning models for fake news detection
+Use various sources (fake-news.csv, gossipcop_fake.csv, gossipcop_real.csv, and true-new.csv) to build robust classification models
+No live web deployment
+Datasets must be manually downloaded prior to running the notebooks
 
 **References**
 

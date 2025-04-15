@@ -44,8 +44,8 @@ and testing phases. The two relevant files are named "fake_news.csv" and "true_n
 * Open the program in Jupyter Notebook by running the command
   -     jupyter notebook
 * Once in Jupyter Notebook, click on "fake-news-detection-models.ipynb" to pull up the program
-* At the top of the page you will see a tab labeled "Run". CLick this tab and then click on the "Run Selected Cell and All Below" option
-* You program should now be running! If there are any errors, check the help section of this README for possible solutions
+* At the top of the page you will see a tab labeled "Run". Click this tab and then click on the "Run Selected Cell and All Below" option
+* Your program should now be running! If there are any errors, check the help section of this README for possible solutions
 
 ## Help
 
@@ -72,3 +72,6 @@ Previous Source:<br/>
 David MJ Lazer, Matthew A Baum, Yochai Benkler, Adam J Berinsky, Kelly M Greenhill, Filippo
 Menczer, Miriam J Metzger, Brendan Nyhan, Gordon Pennycook, David Rothschild, et al. The science
 of fake news. Science, 359(6380):1094–1096, 2018.
+
+Future Source:<br/>
+F. Gulzar Hussain, M. Wasim, S. Hameed, A. Rehman, M. Nabeel Asim and A. Dengel, "Fake News Detection Landscape: Datasets, Data Modalities, AI Approaches, Their Challenges, and Future Perspectives," in IEEE Access, vol. 13, pp. 54757-54778, 2025, doi: 10.1109/ACCESS.2025.3553909.

@@ -44,7 +44,7 @@ cd fake-news-detection
 #### 
 
 > **Note**:
-> If you are getting errors from not having the required libraries, type the following commands into your terminal and then hit `Return↩︎`:
+> If you are getting errors from not having the required libraries, type the following commands into your terminal:
 > ```sh
 > pip install pandas
 > ```

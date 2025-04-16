@@ -4,15 +4,9 @@ A program which compares the metrics between various machine learning models whe
 
 ## Description
 
-This program is a fake news detector that utilizes machine learning to analyze and classify news articles 
-that may be either real or fake. This is achieved by analyzing the results of various machine learning models 
-after they process input data taken from data tables. The machine learning models used within this 
-program include Naive Bayes, Logistic Regression, Random Forest, and Support Vector Machine. To support the models, 
-TfidfVectorizer, KMeans, and RandomForestClassifier are used to present the information in a usable way for some models 
-and for others to highlight the key features the models should consider as important features. It also uses 
-a simple function for preprocessing the plain text data of the news articles in order to filter out 
-unnecessary characters and to make sure the text will be accepted by the models during the training 
-and testing phases. The two relevant files are named "fake_news.csv" and "true_news.csv".
+This program is a fake news detector that utilizes machine learning to analyze and classify news articles that may be either real or fake. This is achieved by analyzing the results of various machine learning models after they process input data taken from data tables. The machine learning models used within this program include Naive Bayes, Logistic Regression, Random Forest, and Support Vector Machine. 
+
+To support the models, TfidfVectorizer, KMeans, and RandomForestClassifier are used to present the information in a usable way for some models and for others to highlight the key features the models should consider as important features. It also uses a simple function for preprocessing the plain text data of the news articles in order to filter out unnecessary characters and to make sure the text will be accepted by the models during the training and testing phases. The two relevant files are named "fake_news.csv" and "true_news.csv".
 
 <br/>
 

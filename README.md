@@ -31,10 +31,13 @@ and testing phases. The two relevant files are named "fake_news.csv" and "true_n
 
 ### Installation
 
-Clone the repository from GitHub
-In your local terminal, navigate to the location where you want this project to sit and then run the following commands:
-*     git clone https://github.com/ila-w/fake-news-detection.git
-*     cd fake-news-detection
+To clone the repository from GitHub, use your terminal to navigate to the location where you want this project to sit and then run the following commands:
+```sh
+git clone https://github.com/ila-w/fake-news-detection.git
+```
+```sh
+cd fake-news-detection
+```
 
 <br/>
 

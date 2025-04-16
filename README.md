@@ -14,6 +14,8 @@ a simple function for preprocessing the plain text data of the news articles in 
 unnecessary characters and to make sure the text will be accepted by the models during the training 
 and testing phases. The two relevant files are named "fake_news.csv" and "true_news.csv".
 
+<br/>
+
 ## Functionality
 
 * Load and preprocesses real-world news datasets
@@ -22,12 +24,16 @@ and testing phases. The two relevant files are named "fake_news.csv" and "true_n
 * No live web deployment
 * Datasets must be manually downloaded prior to running the notebooks
 
+<br/>
+
 ## Getting Started
 
 ### Dependencies
 
 * Python 
 * Jupyter Notebook
+
+<br/>
 
 ### Installation
 
@@ -60,8 +66,6 @@ cd fake-news-detection
 <br/>
 
 ## Usage
-
-### Running the program
 
 In file explorer, navigate to the "fake-news-detection" folder, then go into the "datasets" folder.
   

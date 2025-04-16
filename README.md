@@ -66,7 +66,7 @@ Contributions from Ismael Suarez, Maddie Myer, Christian Flores, and Brenden L'H
 Kuntur, S., Wróblewska, A., Paprzycki, M., & Ganzha, M. (2024). Fake News Detection: It's All in the Data! *Cornell University arXiv*, (2407.02122), pp. 1-12. [https://www.doi.org/10.48550/arXiv.2407.02122](https://www.doi.org/10.48550/arXiv.2407.02122).
 - Github repo: [https://github.com/fakenewsresearch/](https://github.com/fakenewsresearch/)
 - Kaggle dataset: [https://www.kaggle.com/datasets/csmalarkodi/isot-fake-news-dataset](https://www.kaggle.com/datasets/csmalarkodi/isot-fake-news-dataset)
-
+<br/>
 Lazer, D. M.J., Baum, M. A., Benkler, Y., Berinsky, A. J., Greenhill, K. M., Menczer, F., Metzger, M. J., Nyhan, B., Pennycook, G., Rothschild, D., Schudson, M., Sloman, S. A., Sunstein, C. R., Thorson, E. A., Watts, D. J., & Zittrain, J. L. (2018). The science of fake news. *Science*, *359*(6380), pp. 1094–1096. [https://doi.org/10.1126/science.aao2998](https://doi.org/10.1126/science.aao2998).
-
+<br>
 Hussain, F. G., Wasim, M., Hameed, S., Rehman, A., Asim, M. N., & Dengel, A. (2025). Fake News Detection Landscape: Datasets, Data Modalities, AI Approaches, Their Challenges, and Future Perspectives. *IEEE*, *13*, pp. 54757-54778. [https://www.doi.org/10.1109/ACCESS.2025.3553909](https://www.doi.org/10.1109/ACCESS.2025.3553909).

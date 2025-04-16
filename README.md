@@ -70,5 +70,5 @@ Kuntur, S., Wróblewska, A., Paprzycki, M., & Ganzha, M. (2024). Fake News Detec
 <br/>
 Lazer, D. M.J., Baum, M. A., Benkler, Y., Berinsky, A. J., Greenhill, K. M., Menczer, F., Metzger, M. J., Nyhan, B., Pennycook, G., Rothschild, D., Schudson, M., Sloman, S. A., Sunstein, C. R., Thorson, E. A., Watts, D. J., & Zittrain, J. L. (2018). The science of fake news. *Science*, *359*(6380), pp. 1094–1096. [https://doi.org/10.1126/science.aao2998](https://doi.org/10.1126/science.aao2998).
 
-
+<br/> <br/>
 Hussain, F. G., Wasim, M., Hameed, S., Rehman, A., Asim, M. N., & Dengel, A. (2025). Fake News Detection Landscape: Datasets, Data Modalities, AI Approaches, Their Challenges, and Future Perspectives. *IEEE*, *13*, pp. 54757-54778. [https://www.doi.org/10.1109/ACCESS.2025.3553909](https://www.doi.org/10.1109/ACCESS.2025.3553909).

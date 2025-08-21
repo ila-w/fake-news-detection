@@ -45,7 +45,14 @@ This section details how you can get started with using the fake news detector t
 
 ### Installation
 
-To clone the repository from GitHub, use your system's shell to navigate to the location where you want this project to be located and then run the following command:
+To clone the repository from GitHub, use your system's terminal to navigate to the location where you want this project to be located using the `cd` command in your terminal: 
+
+   ```sh
+   cd ./path-to-folder-here/fake-news-detection/
+   ```
+
+
+Once there, run the following command:
 ```sh
 git clone https://github.com/ila-w/fake-news-detection.git
 ```
@@ -59,6 +66,16 @@ git clone https://github.com/ila-w/fake-news-detection.git
 > ```
 
 <br/>
+
+Before going any further, make sure "true-news.csv" and "fake-news.csv" from the datasets folder are inside or the code will be unable to run. You can check this by navigating to the "fake-news-detection" folder, then go into the "datasets" folder. Additionally, you must have the "fake-news-detector.ipynb" file in the folder as well.
+```text
+fake-news-detection/
+└── datasets/
+    ├── fake-news.csv
+    ├── true-news.csv
+├── fake-news-detector.ipynb
+```
+
 
 
 These are the main required libraries in order for the code to run. Please type the following commands into your terminal prior to running the code:
@@ -76,14 +93,7 @@ pip install scikit-learn
 
 <br/>
 
-Before going any further, make sure "true-news.csv" and "fake-news.csv" from the datasets folder are inside or the code will be unable to run. You can check this by navigating to the "fake-news-detection" folder, then go into the "datasets" folder. Additionally, you must have the "fake-news-detector.ipynb" file in the folder as well.
-```text
-fake-news-detection/
-└── datasets/
-    ├── fake-news.csv
-    ├── true-news.csv
-├── fake-news-detector.ipynb
-```
+
 
 ## Usage
 

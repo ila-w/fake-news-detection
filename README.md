@@ -30,8 +30,7 @@ This section details how you can get started with using the fake news detector t
 
 ### Dependencies
 * Understanding of Basic Terminal Commands
-* Installing Python 
-* Installing Jupyter Notebook
+* Installing Python, Jupyter Notebook, & Required Libraries
 * Downloading the GitHub Repository
 
 > **Note:** If you are new to coding, or do not know how to use your system's terminal, please refer to the following resources:

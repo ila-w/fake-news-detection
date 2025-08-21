@@ -47,11 +47,11 @@ This section details how you can get started with using the fake news detector t
 
 ### Installation
 
-To install Python, follow the directions on their website for your system's type, which can be found here:
+1. To install Python, follow the directions on their website for your system's type, which can be found here:
 [Python Install](https://www.python.org/downloads/)
 
 
-To install Jupyter Notebook, follow the directions on their website for their "classic" install method, which can be found here:
+2. To install Jupyter Notebook, follow the directions on their website for their "classic" install method, which can be found here:
 [Jupyter Notebook Install](https://jupyter.org/install)
 
 <br/>
@@ -71,7 +71,7 @@ pip install scikit-learn
 
 <br/>
 
-To clone the repository from GitHub, use your system's terminal to navigate to the location where you want this project to be located using the `cd` command in your terminal: 
+3. To clone the repository from GitHub, use your system's terminal to navigate to the location where you want this project to be located using the `cd` command in your terminal: 
 
    ```sh
    cd ./your-desired-path-to-folder-here/
@@ -97,7 +97,7 @@ git clone https://github.com/ila-w/fake-news-detection.git
 <br/>
 <br/>
 
-Before going any further, make sure "true-news.csv" and "fake-news.csv" from the datasets folder are inside or the code will be unable to run. You can check this by manually navigating to the "fake-news-detection" folder using your system's folder navigation program (Finder or File Explorer) and then go into the "datasets" folder. Additionally, you must have the "fake-news-detector.ipynb" file in the folder as well.
+4. Before going any further, make sure "true-news.csv" and "fake-news.csv" from the datasets folder are inside or the code will be unable to run. You can check this by manually navigating to the "fake-news-detection" folder using your system's folder navigation program (Finder or File Explorer) and then go into the "datasets" folder. Additionally, you must have the "fake-news-detector.ipynb" file in the folder as well.
 ```text
 fake-news-detection/
 └── datasets/

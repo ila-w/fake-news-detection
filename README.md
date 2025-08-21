@@ -25,7 +25,7 @@ To support the models, TfidfVectorizer, KMeans, and RandomForestClassifier are u
 <br/>
 
 ## Getting Started
-This section details how you can get started with using the fake news detector to run it for yourself. However, there are a few required dependencies you will need in order to run the code. You will also need to download the code from Github, Python, Jupyter Notebook, and the required libraries the code utilizes.
+This section details how you can get started with using the fake news detector to run it for yourself. However, there are a few required dependencies you will need in order to run the code. You will also need to download the code from Github as well as install Python, Jupyter Notebook, and the required libraries the code utilizes onto your system.
 
 
 ### Dependencies

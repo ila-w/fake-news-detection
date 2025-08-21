@@ -33,7 +33,7 @@ To support the models, TfidfVectorizer, KMeans, and RandomForestClassifier are u
 * Understanding of basic terminal commands
 
 > **Note:** If you are new to coding, or do not know how to use your system's terminal, please refer to the following resources:
-> [What is a Command Prompt?](https://www.geeksforgeeks.org/operating-systems/what-is-a-command-prompt/)
+> - [What is a Command Prompt?](https://www.geeksforgeeks.org/operating-systems/what-is-a-command-prompt/)
 > []()
 > []()
 > []()

@@ -91,7 +91,7 @@ fake-news-detection/
 4. At the top of the page you will see a button labeled "Run". Click the button and then select the "Run Selected Cell and All Below" option.
 
 > **Note**:
-> If you are getting errors from not having the required libraries, type the following commands into your terminal:
+> These are the main required libraries in order for the code to run. Please type the following commands into your terminal prior to running the code:
 > ```sh
 > pip install pandas
 > ```
@@ -106,7 +106,11 @@ fake-news-detection/
   
 <br/>
 
-Your program should now be running! If there are any errors, check the note in the Installation section of this README for help on installing the required libraries.
+Your program should now be running! 
+
+<br/>
+
+If there are any additional errors, please check the console to identify the libraries your system is still missing. Once found, use `pip install [library name here]` to finish installing the required libraries.
 
 <br/>
 

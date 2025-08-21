@@ -109,16 +109,23 @@ This section details how you can get started with using the fake news detector t
    cd ./path-to-folder-here/fake-news-detection/
    ```
 
+   <br/>
+
 2. Open the program in Jupyter Notebook by running the command:
    ```sh
    jupyter noteboook
    ```
+
+   <br/>
+   
 3. Once Jupyter Notebook is running, click on "fake-news-detector.ipynb" to open the program file.
 
 ```text
 fake-news-detection/
 ├── fake-news-detector.ipynb
 ```
+
+   <br/>
 
 4. At the top of the page you will see a button labeled "Run". Click the button and then select the "Run Selected Cell and All Below" option. Your program should now be running! 
 

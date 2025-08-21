@@ -40,32 +40,12 @@ To clone the repository from GitHub, use your terminal to navigate to the locati
 git clone https://github.com/ila-w/fake-news-detection.git
 ```
 
-
 > **Note:** Your user navigation information will vary depending on your system and where you saved the folder when cloning it from GitHub.
 > ```text
 > Users/
 > └── username/
 >   └── Desktop/
 >       └── fake-news-detection/
-> ```
-
-
-<br/>
-
-#### 
-
-> **Note**:
-> If you are getting errors from not having the required libraries, type the following commands into your terminal:
-> ```sh
-> pip install pandas
-> ```
->
-> ```sh
-> pip install matplotlib
-> ```
->
-> ```sh
-> pip install scikit-learn
 > ```
 
 <br/>

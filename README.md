@@ -60,7 +60,21 @@ git clone https://github.com/ila-w/fake-news-detection.git
 
 <br/>
 
-## Usage
+
+> **Note**:
+> These are the main required libraries in order for the code to run. Please type the following commands into your terminal prior to running the code:
+> ```sh
+> pip install pandas
+> ```
+>
+> ```sh
+> pip install matplotlib
+> ```
+>
+> ```sh
+> pip install scikit-learn
+> ```
+
 
 Before running the code, make sure "true-news.csv" and "fake-news.csv" from the datasets folder are inside or the code will be unable to run. You can check this by navigating to the "fake-news-detection" folder, then go into the "datasets" folder. 
 ```text
@@ -70,7 +84,10 @@ fake-news-detection/
     ├── true-news.csv
 ```
 
-  
+
+
+## Usage
+
 1. In your system's terminal (Command Prompt, Powershell, Terminal), navigate to the "fake-news-detection" folder:
    ```sh
    cd ./path-to-folder-here/fake-news-detection/
@@ -88,29 +105,10 @@ fake-news-detection/
 ├── fake-news-detector.ipynb
 ```
 
-4. At the top of the page you will see a button labeled "Run". Click the button and then select the "Run Selected Cell and All Below" option.
+4. At the top of the page you will see a button labeled "Run". Click the button and then select the "Run Selected Cell and All Below" option. Your program should now be running! 
 
 > **Note**:
-> These are the main required libraries in order for the code to run. Please type the following commands into your terminal prior to running the code:
-> ```sh
-> pip install pandas
-> ```
->
-> ```sh
-> pip install matplotlib
-> ```
->
-> ```sh
-> pip install scikit-learn
-> ```
-  
-<br/>
-
-Your program should now be running! 
-
-<br/>
-
-If there are any additional errors, please check the console to identify the libraries your system is still missing. Once found, use `pip install [library name here]` to finish installing the required libraries.
+> If there are any additional errors, please check the console to identify the libraries your system is still missing. Once found, use `pip install [library name here]` to finish installing the required libraries.
 
 <br/>
 

@@ -56,22 +56,22 @@ This section details how you can get started with using the fake news detector t
 
 <br/>
 
-Additionally, the following are the main required libraries in order for the code to run. In order to install, Please type the following commands into your terminal globally prior to running the code:
-```sh
-pip install pandas
-```
+3. Additionally, the following are the main required libraries in order for the code to run. In order to install, Please type the following commands into your terminal globally prior to running the code:
+   ```sh
+   pip install pandas
+   ```
 
-```sh
-pip install matplotlib
-```
+   ```sh
+   pip install matplotlib
+   ```
 
-```sh
-pip install scikit-learn
-```
+   ```sh
+   pip install scikit-learn
+   ```
 
 <br/>
 
-3. To clone the repository from GitHub, use your system's terminal to navigate to the location where you want this project to be located using the `cd` command in your terminal: 
+4. To clone the repository from GitHub, use your system's terminal to navigate to the location where you want this project to be located using the `cd` command in your terminal: 
 
    ```sh
    cd ./your-desired-path-to-folder-here/
@@ -79,10 +79,10 @@ pip install scikit-learn
 
 <br/>
 
-Once there, run the following command:
-```sh
-git clone https://github.com/ila-w/fake-news-detection.git
-```
+5. Once there, run the following command:
+   ```sh
+   git clone https://github.com/ila-w/fake-news-detection.git
+   ```
 
 <br/>
 
@@ -95,16 +95,15 @@ git clone https://github.com/ila-w/fake-news-detection.git
 > ```
 
 <br/>
-<br/>
 
-4. Before going any further, make sure "true-news.csv" and "fake-news.csv" from the datasets folder are inside or the code will be unable to run. You can check this by manually navigating to the "fake-news-detection" folder using your system's folder navigation program (Finder or File Explorer) and then go into the "datasets" folder. Additionally, you must have the "fake-news-detector.ipynb" file in the folder as well.
-```text
-fake-news-detection/
-└── datasets/
-    ├── fake-news.csv
-    ├── true-news.csv
-├── fake-news-detector.ipynb
-```
+6. Before going any further, make sure "true-news.csv" and "fake-news.csv" from the datasets folder are inside or the code will be unable to run. You can check this by manually navigating to the "fake-news-detection" folder using your system's folder navigation program (Finder or File Explorer) and then go into the "datasets" folder. Additionally, you must have the "fake-news-detector.ipynb" file in the folder as well.
+   ```text
+   fake-news-detection/
+   └── datasets/
+       ├── fake-news.csv
+       ├── true-news.csv
+   ├── fake-news-detector.ipynb
+   ```
 
 <br/>
 

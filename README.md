@@ -137,19 +137,17 @@ This section details how you can get started with using the fake news detector t
    <br/>
    
 3. Once Jupyter Notebook is running, click on "fake-news-detector.ipynb" to open the program file.
-
-```text
-fake-news-detection/
-├── fake-news-detector.ipynb
-```
+   ```text
+   fake-news-detection/
+   ├── fake-news-detector.ipynb
+   ```
 
    <br/>
 
-4. At the top of the page you will see a button labeled "Run". Click the button and then select the "Run Selected Cell and All Below" option. Your program should now be running! 
-
-  > [!NOTE]
-> If there are any additional errors, please check the console to identify the libraries your system is still missing.
-> Once found, use `pip install [library name here]` to finish installing the required libraries.
+4. At the top of the page you will see a button labeled "Run". Click the button and then select the "Run Selected Cell and All Below" option. Your program should now be running!
+   > [!NOTE]
+   > If there are any additional errors, please check the console to identify the libraries your system is still
+   > missing. Once found, use `pip install [library name here]` to finish installing the required libraries.
 
 <br/>
 

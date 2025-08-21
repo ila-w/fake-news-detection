@@ -96,7 +96,7 @@ This section details how you can get started with using the fake news detector t
 
 <br/>
 
-6. Before going any further, make sure "true-news.csv" and "fake-news.csv" from the datasets folder are inside or the code will be unable to run. You can check this by manually navigating to the "fake-news-detection" folder using your system's folder navigation program (Finder or File Explorer) and then go into the "datasets" folder. Additionally, you must have the "fake-news-detector.ipynb" file in the folder as well.
+6. Before going any further, make sure "true-news.csv" and "fake-news.csv" from the datasets folder are inside or the code will be unable to run. You can check this by manually navigating to the "fake-news-detection" folder using your system's terminal or folder navigation program (Finder or File Explorer) and then going into the "datasets" folder.
    ```text
    fake-news-detection/
    └── datasets/

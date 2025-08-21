@@ -66,12 +66,28 @@ cd fake-news-detection
 ## Usage
 
 Before running the code, make sure Make sure "true-news.csv" and "fake-news.csv" from the datasets folder are inside or the code will be unable to run. You can check this by navigating to the "fake-news-detection" folder, then go into the "datasets" folder. 
+```text
+Users/
+└── username/
+    └── Desktop/
+        └── custom/
+            ├── icon.png
+```
+
   
 1. In terminal, navigate to the "fake-news-detection" folder:
    ```sh
-   cd ./user-navigation-information-will-vary-depending-on-your-system/.../fake-news-detection
+   cd ./path-to-folder-here/.../fake-news-detection
    ```
-  
+> **Note:** Your user navigation information will vary depending on your system and where you saved the folder when cloning it from GitHub.
+> ```text
+> Users/
+> └── username/
+>   └── Desktop/
+>       └── fake-news-detection/
+> ```
+
+
 3. Open the program in Jupyter Notebook by running the command:
    ```sh
    jupyter noteboook

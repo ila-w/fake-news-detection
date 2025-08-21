@@ -94,7 +94,7 @@ fake-news-detection/
    ```sh
    jupyter noteboook
    ```
-4. Once in Jupyter Notebook, click on "fake-news-detection-models.ipynb" to open the program file.
+4. Once in Jupyter Notebook, click on "fake-news-detector.ipynb" to open the program file.
 5. At the top of the page you will see a button labeled "Run". Click the button and then select the "Run Selected Cell and All Below" option.
   
 <br/>

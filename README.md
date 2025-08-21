@@ -35,13 +35,20 @@ To support the models, TfidfVectorizer, KMeans, and RandomForestClassifier are u
 
 ### Installation
 
-To clone the repository from GitHub, use your terminal to navigate to the location where you want this project to sit and then run the following commands:
+To clone the repository from GitHub, use your terminal to navigate to the location where you want this project to sit and then run the following command:
 ```sh
 git clone https://github.com/ila-w/fake-news-detection.git
 ```
-```sh
-cd fake-news-detection
-```
+
+
+> **Note:** Your user navigation information will vary depending on your system and where you saved the folder when cloning it from GitHub.
+> ```text
+> Users/
+> └── username/
+>   └── Desktop/
+>       └── fake-news-detection/
+> ```
+
 
 <br/>
 
@@ -71,9 +78,6 @@ fake-news-detection/
 └── datasets/
     ├── fake-news.csv
     ├── true-news.csv
-
-├── fake-news-detector.ipynb
-├── README.md
 ```
 
   
@@ -82,21 +86,33 @@ fake-news-detection/
    cd ./path-to-folder-here/.../fake-news-detection
    ```
 
-> **Note:** Your user navigation information will vary depending on your system and where you saved the folder when cloning it from GitHub.
-> ```text
-> Users/
-> └── username/
->   └── Desktop/
->       └── fake-news-detection/
-> ```
-
 
 3. Open the program in Jupyter Notebook by running the command:
    ```sh
    jupyter noteboook
    ```
 4. Once in Jupyter Notebook, click on "fake-news-detector.ipynb" to open the program file.
-5. At the top of the page you will see a button labeled "Run". Click the button and then select the "Run Selected Cell and All Below" option.
+
+```text
+fake-news-detection/
+├── fake-news-detector.ipynb
+```
+
+6. At the top of the page you will see a button labeled "Run". Click the button and then select the "Run Selected Cell and All Below" option.
+
+> **Note**:
+> If you are getting errors from not having the required libraries, type the following commands into your terminal:
+> ```sh
+> pip install pandas
+> ```
+>
+> ```sh
+> pip install matplotlib
+> ```
+>
+> ```sh
+> pip install scikit-learn
+> ```
   
 <br/>
 

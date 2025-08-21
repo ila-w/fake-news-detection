@@ -47,6 +47,30 @@ This section details how you can get started with using the fake news detector t
 
 ### Installation
 
+To install Python, follow the directions on their website for your system's type, which can be found here:
+[Python Install](https://www.python.org/downloads/)
+
+
+To install Jupyter Notebook, follow the directions on their website for their "classic" install method, which can be found here:
+[Jupyter Notebook Install](https://jupyter.org/install)
+
+<br/>
+
+Additionally, the following are the main required libraries in order for the code to run. In order to install, Please type the following commands into your terminal globally prior to running the code:
+```sh
+pip install pandas
+```
+
+```sh
+pip install matplotlib
+```
+
+```sh
+pip install scikit-learn
+```
+
+<br/>
+
 To clone the repository from GitHub, use your system's terminal to navigate to the location where you want this project to be located using the `cd` command in your terminal: 
 
    ```sh
@@ -83,22 +107,6 @@ fake-news-detection/
 ```
 
 <br/>
-
-These are the main required libraries in order for the code to run. Please type the following commands into your terminal prior to running the code:
-```sh
-pip install pandas
-```
-
-```sh
-pip install matplotlib
-```
-
-```sh
-pip install scikit-learn
-```
-
-<br/>
-
 
 
 ## Usage

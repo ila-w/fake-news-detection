@@ -67,11 +67,12 @@ cd fake-news-detection
 
 Before running the code, make sure Make sure "true-news.csv" and "fake-news.csv" from the datasets folder are inside or the code will be unable to run. You can check this by navigating to the "fake-news-detection" folder, then go into the "datasets" folder. 
 ```text
-Users/
-└── username/
-    └── Desktop/
-        └── custom/
-            ├── icon.png
+└── fake-news-detection/
+    └── datasets/
+        ├── fake-news.csv
+        ├── true-news.csv
+    ├── fake-news-detector.ipynb
+    ├── README.md
 ```
 
   

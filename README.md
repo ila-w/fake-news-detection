@@ -1,6 +1,6 @@
 # Fake News Detection
 
-A program which compares the metrics between various machine learning models when used to detect fake news.
+![fake news image](./assets/jorge-franganillo-34zq7tzqRSw-unsplash.jpg)
 
 ## Introduction
 

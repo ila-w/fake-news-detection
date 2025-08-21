@@ -36,7 +36,8 @@ This section details how you can get started with using the fake news detector t
 
 <br/>
 
-> **Note:** If you are new to coding, or do not know how to use your system's terminal, please refer to the following resources:
+> [!TIP]
+> If you are new to coding, or do not know how to use your system's terminal, please refer to the following resources:
 > - [What is a Command Prompt?](https://www.geeksforgeeks.org/operating-systems/what-is-a-command-prompt/)
 > - [Introduction to Linux Shell & Shell Scripting](https://www.geeksforgeeks.org/linux-unix/introduction-linux-shell-shell-scripting/)
 > - [Linux Commands Cheat Sheet](https://www.geeksforgeeks.org/linux-unix/linux-commands-cheat-sheet/)
@@ -131,7 +132,7 @@ fake-news-detection/
 
 4. At the top of the page you will see a button labeled "Run". Click the button and then select the "Run Selected Cell and All Below" option. Your program should now be running! 
 
-> **Note**:
+  > [!NOTE]
 > If there are any additional errors, please check the console to identify the libraries your system is still missing.
 > Once found, use `pip install [library name here]` to finish installing the required libraries.
 

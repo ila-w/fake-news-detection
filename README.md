@@ -45,16 +45,14 @@ This section details how you can get started with using the fake news detector t
 
 ### Installation
 
-1. To install Python, follow the directions on their website for your system's type, which can be found here:
-[Python Install](https://www.python.org/downloads/)
+1. To install Python & Jupyter Notebook, follow the directions on their website based on your system's type, which can be found here:
+   * [Python Install](https://www.python.org/downloads/)
+   * [Jupyter Notebook Install](https://jupyter.org/install)
+   
+   <br/>
 
-
-2. To install Jupyter Notebook, follow the directions on their website for their "classic" install method, which can be found here:
-[Jupyter Notebook Install](https://jupyter.org/install)
-
-<br/>
-
-3. Additionally, the following are the main required libraries in order for the code to run. In order to install, Please type the following commands into your terminal globally prior to running the code:
+   Additionally, the following are the main required libraries in order for the code to run. In order to install, Please type the following
+   commands into your terminal globally prior to running the code:
    ```sh
    pip install pandas
    ```

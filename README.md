@@ -77,18 +77,18 @@ fake-news-detection/
    ```
 
 
-3. Open the program in Jupyter Notebook by running the command:
+2. Open the program in Jupyter Notebook by running the command:
    ```sh
    jupyter noteboook
    ```
-4. Once in Jupyter Notebook, click on "fake-news-detector.ipynb" to open the program file.
+3. Once in Jupyter Notebook, click on "fake-news-detector.ipynb" to open the program file.
 
 ```text
 fake-news-detection/
 ├── fake-news-detector.ipynb
 ```
 
-6. At the top of the page you will see a button labeled "Run". Click the button and then select the "Run Selected Cell and All Below" option.
+4. At the top of the page you will see a button labeled "Run". Click the button and then select the "Run Selected Cell and All Below" option.
 
 > **Note**:
 > If you are getting errors from not having the required libraries, type the following commands into your terminal:

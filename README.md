@@ -14,6 +14,20 @@
   </p>
 </div>
 
+---
+## TABLE OF CONTENTS
+[ ](top)
+  - [Introduction](#introduction)
+  - [Getting Started](#getting-started)
+    - [Dependencies](#dependencies)
+    - [Installation](#installation)
+  - [Usage](#usage)
+  - [Acknowledgements](#acknowledgements)
+    - [References](#references)
+    - [Authors](#authors)
+--- 
+
+
 ## Introduction
 
 This program is a fake news detector that utilizes machine learning to analyze and classify news articles that may be either real or fake. This is achieved by analyzing the results of various machine learning models after they process input data taken from data tables. The machine learning models used within this program include Naive Bayes, Logistic Regression, Random Forest, and Support Vector Machine. 

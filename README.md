@@ -77,10 +77,11 @@ fake-news-detection/
 ```
 
   
-1. In terminal, navigate to the "fake-news-detection" folder:
+1. In your system's terminal (Command Prompt, Powershell, Terminal), navigate to the "fake-news-detection" folder:
    ```sh
    cd ./path-to-folder-here/.../fake-news-detection
    ```
+
 > **Note:** Your user navigation information will vary depending on your system and where you saved the folder when cloning it from GitHub.
 > ```text
 > Users/

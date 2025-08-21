@@ -27,11 +27,14 @@ To support the models, TfidfVectorizer, KMeans, and RandomForestClassifier are u
 ## Getting Started
 This section details how you can get started with using the fake news detector to run it for yourself. However, there are a few required dependencies you will need in order to run the code. You will also need to download the code from Github as well as install Python, Jupyter Notebook, and the required libraries the code utilizes onto your system.
 
+<br/>
 
 ### Dependencies
 * Understanding of Basic Terminal Commands
 * Installing Python, Jupyter Notebook, & Required Libraries
 * Downloading the GitHub Repository
+
+<br/>
 
 > **Note:** If you are new to coding, or do not know how to use your system's terminal, please refer to the following resources:
 > - [What is a Command Prompt?](https://www.geeksforgeeks.org/operating-systems/what-is-a-command-prompt/)
@@ -50,11 +53,14 @@ To clone the repository from GitHub, use your system's terminal to navigate to t
    cd ./your-desired-path-to-folder-here/
    ```
 
+<br/>
 
 Once there, run the following command:
 ```sh
 git clone https://github.com/ila-w/fake-news-detection.git
 ```
+
+<br/>
 
 > **Note:** Your user navigation information will vary depending on your system and where you saved the folder when cloning it from GitHub.
 > ```text
@@ -75,7 +81,7 @@ fake-news-detection/
 ├── fake-news-detector.ipynb
 ```
 
-
+<br/>
 
 These are the main required libraries in order for the code to run. Please type the following commands into your terminal prior to running the code:
 ```sh

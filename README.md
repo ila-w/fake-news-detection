@@ -71,6 +71,7 @@ fake-news-detection/
 └── datasets/
     ├── fake-news.csv
     ├── true-news.csv
+
 ├── fake-news-detector.ipynb
 ├── README.md
 ```

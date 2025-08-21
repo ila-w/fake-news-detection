@@ -52,7 +52,7 @@ git clone https://github.com/ila-w/fake-news-detection.git
 
 ## Usage
 
-Before running the code, make sure Make sure "true-news.csv" and "fake-news.csv" from the datasets folder are inside or the code will be unable to run. You can check this by navigating to the "fake-news-detection" folder, then go into the "datasets" folder. 
+Before running the code, make sure "true-news.csv" and "fake-news.csv" from the datasets folder are inside or the code will be unable to run. You can check this by navigating to the "fake-news-detection" folder, then go into the "datasets" folder. 
 ```text
 fake-news-detection/
 └── datasets/

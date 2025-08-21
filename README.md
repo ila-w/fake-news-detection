@@ -67,10 +67,16 @@ cd fake-news-detection
 
 Before running the code, make sure Make sure "true-news.csv" and "fake-news.csv" from the datasets folder are inside or the code will be unable to run. You can check this by navigating to the "fake-news-detection" folder, then go into the "datasets" folder. 
   
-1. In terminal, navigate to the "fake-news-detection" folder.
+1. In terminal, navigate to the "fake-news-detection" folder:
+   ```sh
+   cd ./user-navigation-information-will-vary-depending-on-your-system/fake-news-detection
+   ```
   
-2. Open the program in Jupyter Notebook by running the command:
-
+3. Open the program in Jupyter Notebook by running the command:
+   ```sh
+   jupyter noteboook
+   ```
+4. 
       jupyter notebook
 
 Once in Jupyter Notebook, click on "fake-news-detection-models.ipynb" to open the program file.

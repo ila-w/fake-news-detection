@@ -145,7 +145,7 @@ This section details how you can get started with using the fake news detector t
    <br/>
 
 4. At the top of the page you will see a button labeled "Run". Click the button and then select the "Run Selected Cell and All Below" option. Your program should now be running!
-   > [!NOTE]
+   >[!NOTE]
    > If there are any additional errors, please check the console to identify the libraries your system is still
    > missing. Once found, use `pip install [library name here]` to finish installing the required libraries.
 

@@ -67,7 +67,7 @@ This section details how you can get started with using the fake news detector t
 
 <br/>
 
-4. To clone the repository from GitHub, use your system's terminal to navigate to the location where you want this project to be located using the `cd` command in your terminal: 
+2. To clone the repository from GitHub, use your system's terminal to navigate to the location where you want this project to be located using the `cd` command in your terminal: 
 
    ```sh
    cd ./your-desired-path-to-folder-here/
@@ -75,7 +75,7 @@ This section details how you can get started with using the fake news detector t
 
 <br/>
 
-5. Once there, run the following command:
+  Once there, run the following command:
    ```sh
    git clone https://github.com/ila-w/fake-news-detection.git
    ```
@@ -92,7 +92,7 @@ This section details how you can get started with using the fake news detector t
 
 <br/>
 
-6. Before going any further, make sure "true-news.csv" and "fake-news.csv" from the datasets folder are inside or the code will be unable to run. You can check this by manually navigating to the "fake-news-detection" folder using your system's terminal or folder navigation program (Finder or File Explorer) and then going into the "datasets" folder.
+3. Before going any further, verify that the "true-news.csv" and "fake-news.csv" files are inside the `datasets/` folder or the code will be unable to run. You can check this by navigating to the folder using your system's terminal or folder navigation program (Finder or File Explorer).
    ```text
    fake-news-detection/
    └── datasets/

@@ -45,7 +45,7 @@ This section details how you can get started with using the fake news detector t
 
 ### Installation
 
-To clone the repository from GitHub, use your system's shell to navigate to the location where you want this project to sit and then run the following command:
+To clone the repository from GitHub, use your system's shell to navigate to the location where you want this project to be located and then run the following command:
 ```sh
 git clone https://github.com/ila-w/fake-news-detection.git
 ```
@@ -61,19 +61,18 @@ git clone https://github.com/ila-w/fake-news-detection.git
 <br/>
 
 
-> **Note**:
-> These are the main required libraries in order for the code to run. Please type the following commands into your terminal prior to running the code:
-> ```sh
-> pip install pandas
-> ```
->
-> ```sh
-> pip install matplotlib
-> ```
->
-> ```sh
-> pip install scikit-learn
-> ```
+These are the main required libraries in order for the code to run. Please type the following commands into your terminal prior to running the code:
+```sh
+pip install pandas
+```
+
+```sh
+pip install matplotlib
+```
+
+```sh
+pip install scikit-learn
+```
 
 
 Before running the code, make sure "true-news.csv" and "fake-news.csv" from the datasets folder are inside or the code will be unable to run. You can check this by navigating to the "fake-news-detection" folder, then go into the "datasets" folder. 

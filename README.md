@@ -1,6 +1,16 @@
 # Fake News Detection
 
 ![fake news image](./assets/jorge-franganillo-34zq7tzqRSw-unsplash.jpg)
+<div style="text-align:center;">
+  <p>
+    <i>
+      Image Source: 
+      <a href="https://unsplash.com/@franganillo">Jorge Franganillo</a>
+      from
+      <a href="https://unsplash.com/photos/a-blue-typewriter-sitting-on-top-of-a-desk-next-to-a-tv-34zq7tzqRSw">Unsplash</a>
+    </i>
+  </p>
+</div>
 
 ## Introduction
 

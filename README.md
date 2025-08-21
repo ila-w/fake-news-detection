@@ -71,9 +71,7 @@ This section details how you can get started with using the fake news detector t
    ```sh
    cd ./your-desired-path-to-folder-here/
    ```
-   
-  <br/>
-  
+
    Once there, run the following command:
    ```sh
    git clone https://github.com/ila-w/fake-news-detection.git
@@ -90,14 +88,14 @@ This section details how you can get started with using the fake news detector t
 
 <br/>
 
-3. Before going any further, verify that the "true-news.csv" and "fake-news.csv" files are inside the `datasets/` folder or the code will be unable to run. You can check this by navigating to the folder using your system's terminal or folder navigation program (Finder or File Explorer).
-   ```text
-   fake-news-detection/
-   └── datasets/
-       ├── fake-news.csv
-       ├── true-news.csv
-   ├── fake-news-detector.ipynb
-   ```
+Before going any further, verify that the "true-news.csv" and "fake-news.csv" files are inside the `datasets/` folder or the code will be unable to run. You can check this by navigating to the folder using your system's terminal or folder navigation program (Finder or File Explorer).
+```text
+fake-news-detection/
+└── datasets/
+    ├── fake-news.csv
+    ├── true-news.csv
+├── fake-news-detector.ipynb
+```
 
 <br/>
 

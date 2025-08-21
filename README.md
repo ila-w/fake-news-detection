@@ -69,19 +69,16 @@ Before running the code, make sure Make sure "true-news.csv" and "fake-news.csv"
   
 1. In terminal, navigate to the "fake-news-detection" folder:
    ```sh
-   cd ./user-navigation-information-will-vary-depending-on-your-system/fake-news-detection
+   cd ./user-navigation-information-will-vary-depending-on-your-system/.../fake-news-detection
    ```
   
 3. Open the program in Jupyter Notebook by running the command:
    ```sh
    jupyter noteboook
    ```
-4. 
-      jupyter notebook
-
-Once in Jupyter Notebook, click on "fake-news-detection-models.ipynb" to open the program file.
+4. Once in Jupyter Notebook, click on "fake-news-detection-models.ipynb" to open the program file.
   
-At the top of the page you will see a tab labeled "Run". Click this tab and then click on the "Run Selected Cell and All Below" option.
+5. At the top of the page you will see a button labeled "Run". Click the button and then select the "Run Selected Cell and All Below" option.
   
 <br/>
 

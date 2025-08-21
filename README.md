@@ -65,17 +65,15 @@ cd fake-news-detection
 
 ## Usage
 
-In file explorer, navigate to the "fake-news-detection" folder, then go into the "datasets" folder.
+In file explorer, navigate to the "fake-news-detection" folder, then go into the "datasets" folder. Make sure "true-news.csv" and "fake-news.csv" from the datasets folder are inside or the code will be unable to run.
   
-Move "true-news.csv" and "fake-news.csv" from the datasets folder to its parent folder, "fake-news-detection".
-  
-In terminal, navigate to the fake-news-detection folder.
+In terminal, navigate to the "fake-news-detection" folder.
   
 Open the program in Jupyter Notebook by running the command:
 
       jupyter notebook
 
-Once in Jupyter Notebook, click on "fake-news-detection-models.ipynb" to pull up the program.
+Once in Jupyter Notebook, click on "fake-news-detection-models.ipynb" to open the program file.
   
 At the top of the page you will see a tab labeled "Run". Click this tab and then click on the "Run Selected Cell and All Below" option.
   
@@ -95,9 +93,11 @@ Kuntur, S., Wróblewska, A., Paprzycki, M., & Ganzha, M. (2024). "Fake News Dete
 - Kaggle dataset: [https://www.kaggle.com/datasets/csmalarkodi/isot-fake-news-dataset](https://www.kaggle.com/datasets/csmalarkodi/isot-fake-news-dataset)
 
 <br/>
+
 Lazer, D. M.J., Baum, M. A., Benkler, Y., Berinsky, A. J., Greenhill, K. M., Menczer, F., Metzger, M. J., Nyhan, B., Pennycook, G., Rothschild, D., Schudson, M., Sloman, S. A., Sunstein, C. R., Thorson, E. A., Watts, D. J., & Zittrain, J. L. (2018). "The science of fake news." <i>Science</i>, <i>359</i>(6380), pp. 1094–1096. [https://doi.org/10.1126/science.aao2998](https://doi.org/10.1126/science.aao2998).
 
 <br/> <br/>
+
 Hussain, F. G., Wasim, M., Hameed, S., Rehman, A., Asim, M. N., & Dengel, A. (2025). "Fake News Detection Landscape: Datasets, Data Modalities, AI Approaches, Their Challenges, and Future Perspectives." *IEEE*, *13*, pp. 54757-54778. [https://www.doi.org/10.1109/ACCESS.2025.3553909](https://www.doi.org/10.1109/ACCESS.2025.3553909).
 
 <br/>
@@ -106,4 +106,8 @@ Hussain, F. G., Wasim, M., Hameed, S., Rehman, A., Asim, M. N., & Dengel, A. (20
 
 Ila Wallace
 
-Contributions from Ismael Suarez, Maddie Myer, Christian Flores, and Brenden L'Heureux
+<p style="text-align: center;">
+    <sup>
+        Contributions from Ismael Suarez, Maddie Myer, Christian Flores, and Brenden L'Heureux
+    </sup>
+  </p>

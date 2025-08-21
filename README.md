@@ -48,7 +48,7 @@ This section details how you can get started with using the fake news detector t
 To clone the repository from GitHub, use your system's terminal to navigate to the location where you want this project to be located using the `cd` command in your terminal: 
 
    ```sh
-   cd ./path-to-folder-here/fake-news-detection/
+   cd ./your-desired-path-to-folder-here/
    ```
 
 

@@ -35,7 +35,7 @@ This section details how you can get started with using the fake news detector t
 
 > **Note:** If you are new to coding, or do not know how to use your system's terminal, please refer to the following resources:
 > - [What is a Command Prompt?](https://www.geeksforgeeks.org/operating-systems/what-is-a-command-prompt/)
-> [Introduction to Linux Shell & Shell Scripting](https://www.geeksforgeeks.org/linux-unix/introduction-linux-shell-shell-scripting/)
+> - [Introduction to Linux Shell & Shell Scripting](https://www.geeksforgeeks.org/linux-unix/introduction-linux-shell-shell-scripting/)
 > []()
 > []()
 > []()

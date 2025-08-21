@@ -78,9 +78,11 @@ This section details how you can get started with using the fake news detector t
    ```sh
    git clone https://github.com/ila-w/fake-news-detection.git
    ```
-<br/>
 
-  > **Note:** Your user navigation information will vary depending on your system and where you saved the folder when cloning it from GitHub.
+   <br/>
+
+  > [!NOTE]
+> Your user navigation information will vary depending on your system and where you saved the folder when cloning it from GitHub.
   > ```text
   > Users/
   > └── username/

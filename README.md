@@ -83,7 +83,7 @@ fake-news-detection/
   
 1. In your system's terminal (Command Prompt, Powershell, Terminal), navigate to the "fake-news-detection" folder:
    ```sh
-   cd ./path-to-folder-here/.../fake-news-detection
+   cd ./path-to-folder-here/fake-news-detection/
    ```
 
 

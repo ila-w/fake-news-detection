@@ -24,16 +24,6 @@ To support the models, TfidfVectorizer, KMeans, and RandomForestClassifier are u
 
 <br/>
 
-## Functionality
-
-* Load and preprocesses real-world news datasets
-* Train and evaluate machine learning models for fake news detection
-* Use various sources (fake-news.csv, gossipcop_fake.csv, gossipcop_real.csv, and true-new.csv) to build robust classification models
-* No live web deployment
-* Datasets must be manually downloaded prior to running the notebooks
-
-<br/>
-
 ## Getting Started
 
 ### Dependencies

@@ -30,12 +30,20 @@ To support the models, TfidfVectorizer, KMeans, and RandomForestClassifier are u
 
 * Python 
 * Jupyter Notebook
+* Understanding of basic terminal commands
+
+> **Note:** If you are new to coding, or do not know how to use your system's terminal, please refer to the following resources:
+> [What is a Command Prompt?](https://www.geeksforgeeks.org/operating-systems/what-is-a-command-prompt/)
+> []()
+> []()
+> []()
+> []()
 
 <br/>
 
 ### Installation
 
-To clone the repository from GitHub, use your terminal to navigate to the location where you want this project to sit and then run the following command:
+To clone the repository from GitHub, use your system's shell to navigate to the location where you want this project to sit and then run the following command:
 ```sh
 git clone https://github.com/ila-w/fake-news-detection.git
 ```

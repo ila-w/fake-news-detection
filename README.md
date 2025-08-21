@@ -29,10 +29,10 @@ This section details how you can get started with using the fake news detector t
 
 
 ### Dependencies
-
-* Python 
-* Jupyter Notebook
-* Understanding of basic terminal commands
+* Understanding of Basic Terminal Commands
+* Installing Python 
+* Installing Jupyter Notebook
+* Downloading the GitHub Repository
 
 > **Note:** If you are new to coding, or do not know how to use your system's terminal, please refer to the following resources:
 > - [What is a Command Prompt?](https://www.geeksforgeeks.org/operating-systems/what-is-a-command-prompt/)
@@ -67,7 +67,7 @@ git clone https://github.com/ila-w/fake-news-detection.git
 
 <br/>
 
-Before going any further, make sure "true-news.csv" and "fake-news.csv" from the datasets folder are inside or the code will be unable to run. You can check this by navigating to the "fake-news-detection" folder, then go into the "datasets" folder. Additionally, you must have the "fake-news-detector.ipynb" file in the folder as well.
+Before going any further, make sure "true-news.csv" and "fake-news.csv" from the datasets folder are inside or the code will be unable to run. You can check this by manually navigating to the "fake-news-detection" folder using your system's folder navigation program (Finder or File Explorer) and then go into the "datasets" folder. Additionally, you must have the "fake-news-detector.ipynb" file in the folder as well.
 ```text
 fake-news-detection/
 └── datasets/
@@ -101,7 +101,6 @@ pip install scikit-learn
    ```sh
    cd ./path-to-folder-here/fake-news-detection/
    ```
-
 
 2. Open the program in Jupyter Notebook by running the command:
    ```sh

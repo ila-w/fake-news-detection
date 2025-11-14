@@ -38,6 +38,11 @@ To support the models, TfidfVectorizer, KMeans, and RandomForestClassifier are u
 
 <br/>
 
+> [!TIP]
+> If you wish to see the results of the Jupyter Notebook without downloading the repository to run the code, click on the file called `fake-news-detector.ipynb`, which is located in the GitHub file tree above.
+
+<br/>
+
 ---
 ## Getting Started
 This section details how you can get started with using the fake news detector to run it for yourself. However, there are a few required dependencies you will need in order to run the code. You will also need to download the code from Github as well as install Python, Jupyter Notebook, and the required libraries the code utilizes onto your system.
